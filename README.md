@@ -1,7 +1,6 @@
-![Portfolio Project](https://img.shields.io/badge/Project-Portfolio-blue)
-![ServiceNow](https://img.shields.io/badge/Platform-ServiceNow-green)
-![IT Support](https://img.shields.io/badge/Role-IT%20Support-orange)
-![Incident Management](https://img.shields.io/badge/Focus-Incident%20Management-yellow)
+![Saviva Labs](https://img.shields.io/badge/Saviva-Labs-4B9CD3)
+![IT & Cybersecurity](https://img.shields.io/badge/IT%20%26%20Cybersecurity-Projects-6A5ACD)
+![Hands-On Portfolio](https://img.shields.io/badge/Hands--On-Portfolio-0A66C2)
 
 # ServiceNow Help Desk Ticketing Project
 
