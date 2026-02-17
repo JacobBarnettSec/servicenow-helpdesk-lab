@@ -1,3 +1,8 @@
+![Portfolio Project](https://img.shields.io/badge/Project-Portfolio-blue)
+![ServiceNow](https://img.shields.io/badge/Platform-ServiceNow-green)
+![IT Support](https://img.shields.io/badge/Role-IT%20Support-orange)
+![Incident Management](https://img.shields.io/badge/Focus-Incident%20Management-yellow)
+
 # ServiceNow Help Desk Ticketing Project
 
 ## Overview
