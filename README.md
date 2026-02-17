@@ -104,3 +104,6 @@ Each incident includes a top view (ticket details) and a bottom view (activity l
 
 ## Reflection
 Working through these tickets helped reinforce how structured Help Desk workflows are. Even in a simulated environment, the process of categorizing incidents, documenting troubleshooting steps, and applying Impact/Urgency mirrors real IT support operations. This project strengthened my confidence in navigating ServiceNow and handling common support scenarios end-to-end.
+
+---
+**Saviva Labs** — Projects by Jacob
